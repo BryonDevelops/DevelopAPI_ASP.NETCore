@@ -1,1 +1,1 @@
-# FuritAPI
+# FruitAPI
